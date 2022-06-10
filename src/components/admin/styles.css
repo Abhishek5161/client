@@ -1,0 +1,51 @@
+.adminfunction{
+    padding: 10px;
+    margin: 50px;
+    background-color: rgb(1, 1, 77);
+    display: flex;
+    justify-content: center;
+  }
+  
+  .adminfunction li{
+    list-style-type: none !important;
+    display: inline !important;
+     
+  }
+  .adminfunction li a{
+    color: white !important;
+    padding: 20px;
+    text-decoration: none !important;
+  }
+  
+  
+  .adminfunction li a:hover {
+    
+    text-decoration:underline !important;
+    cursor:pointer;
+  }
+
+
+  .feed{
+    flex:6
+}
+
+
+.feedWrapper{
+    margin:5%;
+    border-radius: 10px;
+    box-shadow: 0px 1px 10px 1px white;
+
+}
+
+.img1{
+    margin: 10px;
+ 
+    margin: auto;
+    display: block;
+}
+
+
+
+
+
+
